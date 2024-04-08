@@ -1,4 +1,4 @@
-td
+table
 { background-color: greenyellow;
     color: rgb(29, 0, 218);
     padding: 20px;
@@ -9,7 +9,17 @@ td
 
 
 }
-      
+     
+thead{
+    background-color: hotpink;
+    padding: 20px;
+    font-size: 25px;
+    font-variant: small-caps;
+    font-weight: bolder;
+    font-family: "Madimi One", sans-serif; 
+
+}
+#{}
 
 
 
